@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elashmawy</h1>
 <h3 align="center">A passionate Computer Science student from Cairo University, Egypt.</h3>
 
-- 🌱 I’m currently learning **High Performance Computing, AI, Computer Graphics, Advanced OS.**
+- 🌱 I’m currently learning **High Performance Computing, AI, Computer Graphics and Advanced OS.**
 
 - 📫 How to reach me **mo.elashmawy2003@gmail.com**
 
