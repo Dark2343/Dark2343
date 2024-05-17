@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohamed Elashmawy</h1>
-<h3 align="center">A passionate Computer Science student from Cairo University, Egypt.</h3>
+<h1 align="center">Hey 👋, I'm Mohamed Elashmawy</h1>
+<h3 align="center">A dedicated Computer Science student at Cairo University, Egypt, with a passion for technology and innovation.</h3>
 
 - 🌱 I’m currently learning **High Performance Computing, AI, Computer Graphics and Advanced OS.**
 
