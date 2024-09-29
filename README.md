@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Mohamed Elashmawy</h1>
 <h3 align="center">A dedicated Computer Science student at Cairo University, Egypt, with a passion for technology and innovation.</h3>
 
-- 🌱 I’m currently learning **Flutter, Dart.** And teaching **Object-Oriented Programming.**
+- 🌱 I’m currently learning **Flutter, Dart, React.** 
 
 - 📫 How to reach me **mo.elashmawy2003@gmail.com**
 
