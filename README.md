@@ -1,10 +1,10 @@
 <h1 align="center">Hey 👋, I'm Mohamed Elashmawy</h1>
-<h3 align="center">Dedicated Computer Science student at Cairo University, Egypt, with a passion for technology and innovation.</h3>
+<h3 align="center">Dedicated Computer Science gradute from Cairo University, Egypt, with a passion for technology and innovation.</h3>
 
 - 🌱 I’m currently learning:
-  - 🐦 Flutter & Dart
-  - ⚛️ React.js
+  - 🕸️ Full-Stack Web Development (MERN)
   - 💻 Advanced Backend Development
+  - ☁️ Cloud & DevOps Fundamentals (Docker, CI/CD)
 
 - 📫 How to reach me: [**mo.elashmawy2003@gmail.com**](mailto:mo.elashmawy2003@gmail.com)
 
@@ -58,5 +58,4 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dark2343&show_icons=true&locale=en&layout=compact" alt="dark2343" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dark2343&" alt="dark2343" /></p>
