@@ -8,8 +8,6 @@
   - 💻 Advanced Backend Development
   - ☁️ Cloud & DevOps Fundamentals (Docker, CI/CD)
 
-- 📫 How to reach me: [**mo.elashmawy2003@gmail.com**](mailto:mo.elashmawy2003@gmail.com)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/mo-2003-elashmawy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-elashmawy-103b5223b" width="45" /></a>
