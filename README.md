@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hey 👋, I'm Mohamed Elashmawy</h1>
 <h3 align="center">Dedicated Computer Science gradute from Cairo University, Egypt, with a passion for technology and innovation.</h3>
 
@@ -74,7 +76,6 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=githubactions" height="50" alt="githubactions logo"  />
 </p>
-
 <h3 align="left">Other tools</h3>
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="50"/>
@@ -85,4 +86,12 @@
 
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dark2343&" alt="dark2343" /></p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Dark2343&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Dark2343/Dark2343/output/snake.svg" alt="Snake animation" />
+
+###
