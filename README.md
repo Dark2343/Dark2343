@@ -7,7 +7,7 @@
   - 🕸️ Full-Stack Web Development (MERN)
   - 💻 Advanced Backend Development
   - ☁️ Cloud & DevOps Fundamentals (Docker, CI/CD)
-  - 
+    
 - 📫 How to reach me: [**mo.elashmawy2003@gmail.com**](mailto:mo.elashmawy2003@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
