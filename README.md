@@ -10,9 +10,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/mo-2003-elashmawy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-elashmawy-103b5223b" width="50" /></a>
-  <a href="https://www.leetcode.com/dark2343" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dark2343" width="50" /></a>
-  <a href="https://codeforces.com/profile/dark2343" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dark2343" width="50" /></a>
+  <a href="https://linkedin.com/in/mo-2003-elashmawy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-elashmawy-103b5223b" width="45" /></a>
+  <img width="5" />
+  <a href="https://www.leetcode.com/dark2343" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dark2343" width="45" /></a>
+  <img width="5" />
+  <a href="https://codeforces.com/profile/dark2343" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dark2343" width="45" /></a>
 </p>
 
 ---
