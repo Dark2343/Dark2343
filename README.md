@@ -90,6 +90,20 @@
   <img src="https://streak-stats.demolab.com?user=Dark2343&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+
+# Change command colors
+ZSH_HIGHLIGHT_STYLES[command]='fg=cyan'
+ZSH_HIGHLIGHT_STYLES[builtin]='fg=yellow'
+ZSH_HIGHLIGHT_STYLES[function]='fg=green'
+ZSH_HIGHLIGHT_STYLES[alias]='fg=magenta'
+ZSH_HIGHLIGHT_STYLES[reserved-word]='fg=blue'
+ZSH_HIGHLIGHT_STYLES[precommand]='fg=red'
+ZSH_HIGHLIGHT_STYLES[comment]='fg=8'         # gray
+ZSH_HIGHLIGHT_STYLES[unknown-token]='fg=red,bold'
+ZSH_HIGHLIGHT_STYLES[globbing]='fg=magenta'
+ZSH_HIGHLIGHT_STYLES[path]='fg=yellow'
+
+
 ###
 
 <img src="https://raw.githubusercontent.com/Dark2343/Dark2343/output/snake.svg" alt="Snake animation" />
