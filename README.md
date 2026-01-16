@@ -83,15 +83,4 @@
   <img src="https://raw.githubusercontent.com/rdimascio/icons/932c4cf6c9e2031abeca1c164baa0f76785c16fe/icons/color/premierepro.svg" alt="premiere" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="blender" width="50"/>
 </p>
-
----
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Dark2343&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Dark2343/Dark2343/output/snake.svg" alt="Snake animation" />
-
 ###
