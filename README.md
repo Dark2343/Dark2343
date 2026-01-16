@@ -83,4 +83,3 @@
   <img src="https://raw.githubusercontent.com/rdimascio/icons/932c4cf6c9e2031abeca1c164baa0f76785c16fe/icons/color/premierepro.svg" alt="premiere" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="blender" width="50"/>
 </p>
-###
